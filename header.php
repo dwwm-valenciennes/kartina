@@ -1,16 +1,20 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Header</title>
-    <style></style>
-    <link rel="stylesheet" href="#">
+    <style>
+        div{
+            text-align: center;
+        }
+    </style>
+  <link rel="stylesheet" href="#">
 </head>
-<body class="cocorico">
+<body class="cocorico les conflits !!">
     <header>
-        <div>HEADER</div>    
+        <div>conflit avec le header</div>    
     </header>
 </body>
 </html>
