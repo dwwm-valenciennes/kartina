@@ -10,10 +10,11 @@
             text-align: center;
         }
     </style>
+  <link rel="stylesheet" href="#">
 </head>
-<body class="les conflits !!">
-    <head>
-        <div>conflit</div>    
-    </head>
+<body class="cocorico les conflits !!">
+    <header>
+        <div>conflit avec le header</div>    
+    </header>
 </body>
 </html>
